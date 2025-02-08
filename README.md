@@ -123,7 +123,7 @@ def simular_combate(nivel_jogador, nivel_monstro):
 ```
 
 ---
-Claro, posso expandir a documentação para incluir detalhes sobre a mágica e a armadura dos jogadores e monstros. Aqui está:
+
 
 # Testes de Nível e Balanceamento em Jogos
 
